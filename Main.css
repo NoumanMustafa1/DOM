@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    font-size: 12px;
+}
+
+td{
+    height: 80px;
+    width: 80px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 60px;
+    
+ }
